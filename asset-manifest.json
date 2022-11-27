@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tappay/static/css/main.78e17fc7.chunk.css",
+    "main.js": "/tappay/static/js/main.398ececf.chunk.js",
+    "main.js.map": "/tappay/static/js/main.398ececf.chunk.js.map",
+    "runtime-main.js": "/tappay/static/js/runtime-main.f63b7f4d.js",
+    "runtime-main.js.map": "/tappay/static/js/runtime-main.f63b7f4d.js.map",
+    "static/js/2.fb0fbe01.chunk.js": "/tappay/static/js/2.fb0fbe01.chunk.js",
+    "static/js/2.fb0fbe01.chunk.js.map": "/tappay/static/js/2.fb0fbe01.chunk.js.map",
+    "index.html": "/tappay/index.html",
+    "static/css/main.78e17fc7.chunk.css.map": "/tappay/static/css/main.78e17fc7.chunk.css.map",
+    "static/js/2.fb0fbe01.chunk.js.LICENSE.txt": "/tappay/static/js/2.fb0fbe01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f63b7f4d.js",
+    "static/js/2.fb0fbe01.chunk.js",
+    "static/css/main.78e17fc7.chunk.css",
+    "static/js/main.398ececf.chunk.js"
+  ]
+}
