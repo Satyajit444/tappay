@@ -1,0 +1,43 @@
+body{
+  background-color: aliceblue;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  width: 400px;
+  height: auto;
+  padding: 30px ;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: blueviolet;
+  color: #fff;
+}
+.eachItem{
+  display: flex;
+  height: 20px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 5px 20px;
+  width: 350px;
+  color: #000;
+}
+input ,button{
+  padding: 10px;
+
+}
+.eachItem button{
+  margin-left: 80px;
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 5px;
+}
+#removeAll {
+  margin-top: 40px;
+}
